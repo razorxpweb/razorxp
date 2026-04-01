@@ -22,10 +22,6 @@ Philosophy
 
 Tools should feel natural to use. No complicated setups, no unnecessary features — just smooth performance and clear functionality. RazorXP keeps everything minimal while still being effective.
 
-Usage
-
-Each upload is organized to be easy to understand and quick to run. Follow the instructions provided and you’ll be set up without hassle.
-
 Notes
 
 Use everything responsibly and take the time to understand how each resource works. A controlled and informed approach leads to a better overall experience.
